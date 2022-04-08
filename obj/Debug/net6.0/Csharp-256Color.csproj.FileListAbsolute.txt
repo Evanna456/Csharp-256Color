@@ -1,0 +1,17 @@
+D:\My Documents\Workshop\Csharp\Csharp-256Color\bin\Debug\net6.0\Csharp-256Color.exe
+D:\My Documents\Workshop\Csharp\Csharp-256Color\bin\Debug\net6.0\Csharp-256Color.deps.json
+D:\My Documents\Workshop\Csharp\Csharp-256Color\bin\Debug\net6.0\Csharp-256Color.runtimeconfig.json
+D:\My Documents\Workshop\Csharp\Csharp-256Color\bin\Debug\net6.0\Csharp-256Color.dll
+D:\My Documents\Workshop\Csharp\Csharp-256Color\bin\Debug\net6.0\Csharp-256Color.pdb
+D:\My Documents\Workshop\Csharp\Csharp-256Color\bin\Debug\net6.0\Pastel.dll
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.csproj.AssemblyReference.cache
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.AssemblyInfoInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.AssemblyInfo.cs
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.csproj.CoreCompileInputs.cache
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.csproj.CopyComplete
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.dll
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\refint\Csharp-256Color.dll
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.pdb
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\Csharp-256Color.genruntimeconfig.cache
+D:\My Documents\Workshop\Csharp\Csharp-256Color\obj\Debug\net6.0\ref\Csharp-256Color.dll
