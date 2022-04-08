@@ -1,6 +1,6 @@
 ## About Csharp-256Color
 
-A practice program that will generate a number from 0-255, each representing 256 bit depth color.
+A practice program that will generate a number from 0-255, each representing a 256 bit depth color.
 
 ## Usage
 
