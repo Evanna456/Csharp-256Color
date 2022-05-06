@@ -1,10 +1,9 @@
 ﻿using Pastel;
 using System;
-using System.Collections.Generic;
 
 namespace Csharp_256Color
 {
-    internal class Program
+    class Program
     {
         private static void Main(string[] args)
         {
@@ -29,7 +28,17 @@ namespace Csharp_256Color
              ("#00005f", "17"),
              ("#000087", "18"),
              ("#0000af", "19"),
-             ("#0000d7", "20")
+             ("#0000d7", "20"),
+             ("#0000ff", "21"),
+             ("#005f00", "22"),
+             ("#005f5f", "23"),
+             ("#005f87", "24"),
+             ("#005faf", "25"),
+             ("#005fd7", "26"),
+             ("#005fff", "27"),
+             ("#008700", "28"),
+             ("#00875f", "29"),
+             ("#008787", "30"),
         };
             Console.WriteLine(string.Join("", spectrum.Select(s => s.letter.Pastel(s.color))));
         }
