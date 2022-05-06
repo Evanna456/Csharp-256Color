@@ -18,7 +18,7 @@ C# is a general-purpose, multi-paradigm programming language. C# encompasses sta
 
 ## Author's Notes
 
-Well somebody asked if it's possible in C#, so I fiddled around and I'm keeping this in case another one asked again.
+Well somebody asked if it's possible to console output 256 color font in C#, so I fiddled around and yes it's possible.
 
 ## License
 
