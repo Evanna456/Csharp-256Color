@@ -6,6 +6,7 @@
     <RootNamespace>Csharp_256Color</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Csharp_256Color.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
