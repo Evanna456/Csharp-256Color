@@ -48,6 +48,16 @@ namespace Csharp_256Color
              ("#00afd7", "38"),
              ("#00afff", "39"),
              ("#00d700", "40"),
+             ("#00d75f", "41"),
+             ("#00d787", "42"),
+             ("#00d7af", "43"),
+             ("#00d7d7", "44"),
+             ("#00d7ff", "45"),
+             ("#00ff00", "46"),
+             ("#00ff5f", "47"),
+             ("#00ff87", "48"),
+             ("#00ffaf", "49"),
+             ("#00ffd7", "50"),
         };
             Console.WriteLine(string.Join("", spectrum.Select(s => s.letter.Pastel(s.color))));
             Console.ReadKey();
